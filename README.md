@@ -4,7 +4,7 @@ As a former student in the US, mass shootings were a concern of mine.
 
 I obtained a dataset from American journalist organization Mother Jones which covered mass shootings that took place between 1982-2022.
 
-I constructed a dashboard depicting stats and trends of US Mass Shootings to get a more quantitive understanding of their nature.
+I constructed a dashboard depicting stats and trends of US Mass Shootings to get a more quantitative understanding of their nature.
 
 May the victims rest in peace.
 
