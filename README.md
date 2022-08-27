@@ -9,5 +9,7 @@ I constructed a dashboard depicting stats and trends of US Mass Shootings to get
 May the victims rest in peace.
 
 
+https://public.tableau.com/app/profile/adam.tassabehji/viz/AT-USMassShootings/Dashboard
+
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56136026/187028387-959c0a0c-d257-437f-94aa-e4a535c9b506.gif)
