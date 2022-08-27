@@ -1,4 +1,8 @@
 # MassShootings
-Dashboard depicting stats and trends of US Mass Shootings
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.94%;position:relative;"><iframe width="360" height="205" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6rbsj7"></p></div>
+As a former student in the US, mass shootings were a concern of mine.
+
+I constructed a dashboard depicting stats and trends of US Mass Shootings to get a more quantitive understanding of their nature.
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56136026/187028387-959c0a0c-d257-437f-94aa-e4a535c9b506.gif)
